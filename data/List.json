@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Medanta Hospital",
+    "patientCount": 1225,
+    "location": "Gurgaon"
+  },
+  {
+    "name": "Kokilaben Dhirubhai Ambani Hospital",
+    "patientCount": 833,
+    "location": "Mumbai"
+  },
+  {
+    "name": "Indraprastha Apollo Hospital",
+    "patientCount": 1435,
+    "location": "New Delhi"
+  },
+  {
+    "name": "Nanavati Super Specialty Hospital",
+    "patientCount": 1132,
+    "location": "Mumbai"
+  }
+]
